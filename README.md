@@ -22,7 +22,20 @@
 
 [google](https://google.com)
 
-!(https://media.istockphoto.com/photos/seoul-skyline-picture-id464629385?k=20&m=464629385&s=612x612&w=0&h=mt_F-AB_a8Fy4Gw8bM3zDQ3a1cFoRyreeVQTwJuuLTw=)
+![alt text](https://media.istockphoto.com/photos/seoul-skyline-picture-id464629385?k=20&m=464629385&s=612x612&w=0&h=mt_F-AB_a8Fy4Gw8bM3zDQ3a1cFoRyreeVQTwJuuLTw=)
+
+
+
+
+
+첫번째줄
+***
+두번째줄
+- - -
+
+*강조1*
+**강조2**
+~~중간선~~
 
 ```
 print()
